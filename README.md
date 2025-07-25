@@ -52,3 +52,17 @@ Both notifications:
    git clone https://github.com/YOUR_USERNAME/Becoming2030Me.git
    cd Becoming2030Me
    open Becoming2030Me.xcodeproj
+2. Customize the Google Form URLsEdit the links in Becoming2030MeApp.swift to point to your own Morning and Evening forms.
+
+3. Build and Run the app in XcodeMake sure notifications are allowed in System Settings > Notifications > Becoming2030Me.
+
+---
+
+
+## 🧠 Why I Built This
+
+I wanted a gentle ritual that keeps me grounded and connected to my long-term vision — to become my best self by 2030. Instead of using a habit tracker, I designed this as a daily conversation with my future self.
+
+## 📬 Feedback & Contributions
+
+This is a personal tool, but if you're inspired to build your own version, feel free to fork or reach out! I’d love to see how others are approaching intentional self-development with code.
